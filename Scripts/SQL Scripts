@@ -1,0 +1,133 @@
+# UEFA SQL Data Analysis Project
+
+This project involves analyzing UEFA football data using SQL to solve real-world analytical questions related to goals, matches, players, teams, and stadiums.
+
+---
+
+## 🎯 Objective
+
+To perform structured data analysis using SQL by solving 55 business-oriented questions across multiple datasets.
+
+---
+
+## 📂 Dataset Description
+
+The project uses 5 datasets:
+
+* Goals → Goal details (player, assist, match, time)
+* Matches → Match results, teams, attendance
+* Players → Player details (age, position, nationality)
+* Teams → Team and country information
+* Stadiums → Stadium location and capacity
+
+---
+
+## 🧠 Problem Categories Solved
+
+### ⚽ Goal Analysis
+
+* Identified top goal scorers per season
+* Calculated total and average goals
+* Found players with most assists
+* Analyzed goals per match and stadium
+
+---
+
+### 🏟 Match Analysis
+
+* Highest scoring matches
+* Draw matches count
+* Team performance (home & away)
+* Attendance and stadium usage
+
+---
+
+### 👤 Player Analysis
+
+* Top performing players
+* Goals + assists contribution
+* Player statistics (age, height, position)
+* Players with no goals
+
+---
+
+### 🏆 Team Analysis
+
+* Teams with highest goals
+* Home wins and performance
+* Teams by country and stadium
+
+---
+
+### 🏟 Stadium Analysis
+
+* Highest capacity stadiums
+* Match distribution by stadium
+* Attendance and capacity insights
+
+---
+
+### 🔗 Cross Table Analysis
+
+* Combined multiple tables using JOINs
+* Player performance by stadium
+* Team performance in high-attendance matches
+* Goal distribution across conditions
+
+---
+
+### 🔥 Complex Queries
+
+* Goal analysis in first 30 minutes
+* Score difference analysis
+* High goal difference matches
+* Goals per match ratio
+
+---
+
+## 💻 SQL Concepts Used
+
+* SELECT, WHERE, ORDER BY
+* GROUP BY, HAVING
+* Aggregate Functions (COUNT, SUM, AVG)
+* JOINs (INNER, LEFT)
+* Subqueries
+* Complex filtering
+
+---
+
+## 📁 Project Files
+
+* Datasets.csv → Dataset used
+* queries.sql → All 55 questions with solutions
+* UEFA_SQL_PROJECT.sql → Full database backup
+
+---
+
+## 🚀 How I Solved the Project
+
+1. Imported all 5 datasets into PostgreSQL (pgAdmin)
+2. Cleaned and structured the data
+3. Analyzed each problem category step by step
+4. Used SQL queries to extract insights
+5. Applied JOINs for cross-table analysis
+6. Solved complex analytical queries
+
+---
+
+## 📊 Key Learnings
+
+* Writing efficient SQL queries
+* Handling multiple datasets
+* Performing real-world data analysis
+* Using JOINs and aggregations effectively
+
+---
+
+## 🎯 Conclusion
+
+This project demonstrates strong SQL skills by solving real-world analytical problems using structured datasets. It highlights the ability to work with relational data and extract meaningful insights.
+
+---
+
+⭐ This project is part of my Data Analytics portfolio.
