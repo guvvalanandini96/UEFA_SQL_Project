@@ -1,0 +1,23 @@
+## 📂 Dataset
+
+The project uses multiple datasets related to football match analysis. All datasets are stored in the `datasets/` folder.
+
+### 📁 Files Description
+
+* **goals.csv**
+  Contains information about goals scored in matches, including player and match references.
+
+* **matches.csv**
+  Stores match-level details such as match date, teams involved, and results.
+
+* **players.csv**
+  Includes player information such as player ID, name, and associated team.
+
+* **teams.csv**
+  Contains details about teams participating in matches.
+
+* **stadiums.csv**
+  Provides information about stadiums where matches are held.
+
+---
+## 🗄 Database Description
